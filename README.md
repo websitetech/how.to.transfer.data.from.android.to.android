@@ -1,6 +1,6 @@
 # How to Transfer Data from Android to Android?
 
-[![how to transfer data from android to android](redd.png)](https://github.com/websitetech/how.to.transfer.data.from.android.to.android)
+[![how to transfer data from android to android](redd.png)](https://icncomputer.com/how-to-transfer-data-from-android-to-android/)
 
 
 
